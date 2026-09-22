@@ -1,0 +1,6 @@
+{
+  "name": "CreditTrack",
+  "description": "Digital customer credit and udhaar management system for small businesses and shopkeepers replacing traditional bahi-khata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
